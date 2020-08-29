@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+# Stardew Valley Recipes
 
-You can use the [editor on GitHub](https://github.com/vlvagerviwager/stardew-valley-recipes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A markdown checklist of all Stardew Valley recipe names, to be used as a reference particularly for the following achievements:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Cook (Cook 10 different recipes)
+- Sous Chef (Cook 25 different recipes)
+- Gourmet Chef (Cook every recipe)
 
-### Markdown
+Easy to copy and paste into text editors, notes apps, etc. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Last updated 29 August 2020.
 
-```markdown
-Syntax highlighted code block
+## All Recipes
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vlvagerviwager/stardew-valley-recipes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [ ] Fried Egg
+- [ ] Omelet
+- [ ] Salad
+- [ ] Cheese Cauliflower
+- [ ] Baked Fish
+- [ ] Parsnip Soup
+- [ ] Vegetable Medley
+- [ ] Complete Breakfast
+- [ ] Fried Calamari
+- [ ] Strange Bun
+- [ ] Lucky Lunch
+- [ ] Fried Mushrooms
+- [ ] Pizza
+- [ ] Bean Hotpot
+- [ ] Glazed Yams
+- [ ] Carp Surprise
+- [ ] Hashbrowns
+- [ ] Pancakes
+- [ ] Salmon Dinner
+- [ ] Fish Taco
+- [ ] Crispy Bass
+- [ ] Pepper Poppers
+- [ ] Bread
+- [ ] Tom Kha Soup
+- [ ] Trout Soup
+- [ ] Chocolate Cake
+- [ ] Pink Cake
+- [ ] Rhubarb Pie
+- [ ] Cookies
+- [ ] Spaghetti
+- [ ] Fried Eel
+- [ ] Spicy Eel
+- [ ] Sashimi
+- [ ] Maki Roll
+- [ ] Tortilla
+- [ ] Red Plate
+- [ ] Eggplant Parmesan
+- [ ] Rice Pudding
+- [ ] Ice Cream
+- [ ] Blueberry Tart
+- [ ] Autumn's Bounty
+- [ ] Pumpkin Soup
+- [ ] Super Meal
+- [ ] Cranberry Sauce
+- [ ] Stuffing
+- [ ] Farmer's Lunch
+- [ ] Survival Burger
+- [ ] Dish o' the Sea
+- [ ] Miner's Treat
+- [ ] Roots Platter
+- [ ] Algae Soup
+- [ ] Pale Broth
+- [ ] Plum Pudding
+- [ ] Artichoke Dip
+- [ ] Stir Fry
+- [ ] Roasted Hazelnuts
+- [ ] Fruit Salad
+- [ ] Radish Salad
+- [ ] Pumpkin Pie
+- [ ] Blackberry Cobbler
+- [ ] Cranberry Candy
+- [ ] Bruschetta
+- [ ] Coleslaw
+- [ ] Fiddlehead Risotto
+- [ ] Poppyseed Muffin
+- [ ] Chowder
+- [ ] Lobster Bisque
+- [ ] Escargot
+- [ ] Fish Stew
+- [ ] Maple Bar
+- [ ] Seafoam Pudding
+- [ ] Crab Cakes
+- [ ] Triple Shot Espresso
+- [ ] Shrimp Cocktail
