@@ -1,6 +1,6 @@
 # Stardew Valley Recipes
 
-A markdown checklist of all Stardew Valley recipes, to be used as a reference particularly for the following achievements:
+A markdown checklist of all Stardew Valley recipe names, to be used as a reference particularly for the following achievements:
 
 - Cook (Cook 10 different recipes)
 - Sous Chef (Cook 25 different recipes)
