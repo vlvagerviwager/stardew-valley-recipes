@@ -6,6 +6,8 @@ A markdown checklist of all Stardew Valley recipes, to be used as a reference pa
 - Sous Chef (Cook 25 different recipes)
 - Gourmet Chef (Cook every recipe)
 
+Easy to copy and paste into text editors, notes apps, etc. 
+
 Last updated 29 August 2020.
 
 ## All Recipes
